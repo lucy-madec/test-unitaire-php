@@ -157,13 +157,6 @@ On provoque une erreur pour vérifier le bon comportement du test. Une fois test
 
 ---
 
-## 📅 Commits et GitHub
-
-**Bonnes pratiques :**
-- Des **commits réguliers** avec des **messages explicites** (ex : `ajout de la classe Math`, `ajout du test addition`)
-
----
-
 ## 👍 Compétences développées
 - Maîtrise de Composer et PHPUnit
 - Ecriture de tests unitaires simples
