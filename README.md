@@ -161,8 +161,6 @@ On provoque une erreur pour vérifier le bon comportement du test. Une fois test
 
 **Bonnes pratiques :**
 - Des **commits réguliers** avec des **messages explicites** (ex : `ajout de la classe Math`, `ajout du test addition`)
-- Nom du repo GitHub : `test-unitaire-php`
-- Partage avec votre formateur
 
 ---
 
