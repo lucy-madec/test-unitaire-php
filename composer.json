@@ -1,0 +1,15 @@
+{
+    "name": "lucym/test-unitaire-php",
+    "autoload": {
+        "psr-4": {
+            "Lucym\\TestUnitairePhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucy",
+            "email": "lucy.madec@laplateforme.io"
+        }
+    ],
+    "require": {}
+}
