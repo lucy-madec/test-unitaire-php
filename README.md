@@ -162,7 +162,3 @@ On provoque une erreur pour vérifier le bon comportement du test. Une fois test
 - Ecriture de tests unitaires simples
 - Bonne structuration de projet PHP
 - Utilisation de GitHub avec README documenté
-
----
-
-> Rendu : **README.md + images** bien organisées dans le repo GitHub `test-unitaire-php`
